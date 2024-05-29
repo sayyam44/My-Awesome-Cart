@@ -1,4 +1,4 @@
-Developed a fully functional e-commerce website using Django framework, incorporating features such as **User authentication, Product catalog management, Cart functionality, Order tracking etc.**
+Developed a fully functional e-commerce website(Style Inn) using Django framework, incorporating features such as **User authentication, Product catalog management, Cart functionality, Order tracking etc.**
 
 Here are few screenshots from this E-commerce website.
 
