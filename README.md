@@ -34,6 +34,6 @@ Here are few screenshots from this E-commerce website.
 
 ![Contact Us page](https://github.com/sayyam44/My-Awesome-Cart/assets/96288976/4a155d02-6016-47a8-9fdd-f8b20b7129a2)
 
-##Contributions 
+# Contributions 
 Contributions are welcome, and they are greatly appreciated! Every little bit helps, and credit will always be given.
 Please star the repo and feel free to make pull requests.
